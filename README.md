@@ -1,3 +1,14 @@
+Symfony 7 (Beta)
+================
+
+
+Updated to Symfony 7
+
+Several of the packages in composer.json are using the dev versions, and minimum stability is set to dev.
+
+doctrine/doctrine-fixtures-bundle was removed until a branch that supports Symfony 7 is available.
+
+
 Symfony Demo Application
 ========================
 
