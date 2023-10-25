@@ -8995,6 +8995,7 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "symfony/monolog-bundle": 20,
+        "symfony/stimulus-bundle": 20,
         "symfony/ux-live-component": 20
     },
     "prefer-stable": false,

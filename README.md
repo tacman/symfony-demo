@@ -8,6 +8,13 @@ Several of the packages in composer.json are using the dev versions, and minimum
 
 doctrine/doctrine-fixtures-bundle was removed until a branch that supports Symfony 7 is available.
 
+```bash
+git clone git@github.com:tacman/symfony-demo.git --branch=symfony7 symfony7-demo && cd symfony7-demo
+composer install && yarn install && yarn dev
+symfony server:start -d
+symfony open:local
+```
+
 
 Symfony Demo Application
 ========================
