@@ -50,6 +50,9 @@
             "migrations/.gitignore"
         ]
     },
+    "jawira/doctrine-diagram-bundle": {
+        "version": "dev-main"
+    },
     "phpstan/phpstan": {
         "version": "1.12",
         "recipe": {
